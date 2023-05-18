@@ -12,8 +12,8 @@
   --clr-grey: #707070;
   --clr-bunker: #131921;
   --clr-ebony-clay: #232f3e;
-  --clr-orange: #FF9900;
-  --clr-orange-dark: #cc8111;
+  --clr-orange: #00c8ff;
+  --clr-orange-dark: #114fcc;
 }
 
 body {
@@ -28,6 +28,19 @@ h2 {
   margin: 20px auto 0;
 
   font-size: 2.15em;
+}
+
+h3 .bob{
+  max-width: 100px;
+  margin: 20px auto 0;
+  color: var(--clr-orange-dark);
+  font-size: 1.5em;
+}
+h4 {
+  max-width: 1000px;
+  margin: 20px auto 0;
+  text-align: center;
+  font-size: 1.2em;
 }
 
 h2:not(.product__overview h2) {

@@ -1,7 +1,12 @@
 {
     "31337": {
         "dappazon": {
-            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+            "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788"
+        }
+    },
+    "11155111": {
+        "dappazon": {
+            "address": "0x10E9aE6C9B7C2Aa818F54679ECe64Cb4a0AAe618"
         }
     }
 }
