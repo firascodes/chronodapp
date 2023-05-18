@@ -3,6 +3,8 @@
 ChronoDapp is a decentralized eCommerce application (with the idea of selling Luxury Watches) built on the Sepolia Testnet, providing a secure and decentralized platform for online commerce. Utilizing a Solidity smart contract for secure transactions and built using React.js for a responsive and engaging user experience, ChronoDapp reimagines eCommerce in a decentralized world.
 
 ![image](https://github.com/firascodes/chronodapp/assets/72166289/bc271eec-27de-4eb8-811b-ac80ac4bbff9)
+![image](https://github.com/firascodes/chronodapp/assets/72166289/060d46d2-91a8-43ab-bf98-c0bff54bf7e0)
+
 
 
 ## Technologies Used
